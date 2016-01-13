@@ -1,5 +1,5 @@
 '''
-Positive input as number in base 10 and a base to convert to
+Positive input as number in base 10 along with base to convert to
 Works correctly up to hexadecimal conversion
 '''
 
